@@ -9,13 +9,16 @@ body {
     background: linear-gradient(to right, #4CAF50, #2196F3);
 }
 
+main {
+    min-height: 100vh;
+}
 .container {
     color: white;
     text-align: center;
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 100vh;
+    min-height: 80vh;
     padding: 20px;
     background-color: #e5e5f7;
     opacity: 0.8;

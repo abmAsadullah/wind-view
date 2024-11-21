@@ -1,4 +1,4 @@
-# Wind View ⛵️
+# Wind View ⛅
 
 "Wind View" is a dynamic application built with Angular and TypeScript, utilizing API to fetch real-time weather data. It provides users with accurate and up-to-date weather information for locations worldwide.
 
