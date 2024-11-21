@@ -1,27 +1,40 @@
-# WindView
+# Wind View ⛵️
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.12.
+"Wind View" is a dynamic application built with Angular and TypeScript, utilizing API to fetch real-time weather data. It provides users with accurate and up-to-date weather information for locations worldwide.
 
-## Development server
+<hr/>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+![image](https://github.com/user-attachments/assets/d2848fff-6e35-47d0-988a-3db880a7a207)
 
-## Code scaffolding
+<hr />
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Built With
 
-## Build
+- HTML/CSS
+- Angular
+- TypeScript
+- API
+- Netlify
+- Github
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Live Demo
 
-## Running unit tests
+[Live Demo Link](https://wind-view.netlify.app/)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Author
 
-## Running end-to-end tests
+👤 **A B M Asadullah**
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+- Github: [@abmasadullah](https://github.com/abmasadullah)
+- Linkedin: [@abmasadullah](https://www.linkedin.com/in/abmasadullah)
+- Website: [@asad.app](https://asad.app/)
 
-## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+Feel free to check the issues page.
+
+## Show your support
+
+Give a ⭐️ if you like this project!
